@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Every day is a new present given by god!!"
 Use the left arrow to go back!
